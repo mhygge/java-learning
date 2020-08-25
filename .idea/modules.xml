@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnnotationTest/AnnotationTest.iml" filepath="$PROJECT_DIR$/AnnotationTest/AnnotationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProxy/DynamicProxy.iml" filepath="$PROJECT_DIR$/DynamicProxy/DynamicProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileTest/FileTest.iml" filepath="$PROJECT_DIR$/FileTest/FileTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProxy/JDKDynamicProxy.iml" filepath="$PROJECT_DIR$/DynamicProxy/JDKDynamicProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpression/LambdaExpression.iml" filepath="$PROJECT_DIR$/LambdaExpression/LambdaExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParameterizedBehavior/ParameterizedBehavior.iml" filepath="$PROJECT_DIR$/ParameterizedBehavior/ParameterizedBehavior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReflectMechanism/ReflectMechanism.iml" filepath="$PROJECT_DIR$/ReflectMechanism/ReflectMechanism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SteamApi/SteamApi.iml" filepath="$PROJECT_DIR$/SteamApi/SteamApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebTest/WebTest.iml" filepath="$PROJECT_DIR$/WebTest/WebTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j8test.iml" filepath="$PROJECT_DIR$/j8test.iml" />
+    </modules>
+  </component>
+</project>
