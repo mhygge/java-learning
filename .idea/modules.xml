@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnnotationTest/AnnotationTest.iml" filepath="$PROJECT_DIR$/AnnotationTest/AnnotationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CocurrentTest/CocurrentTest.iml" filepath="$PROJECT_DIR$/CocurrentTest/CocurrentTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollectionTest/CollectionTest.iml" filepath="$PROJECT_DIR$/CollectionTest/CollectionTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/DynamicProxy/DynamicProxy.iml" filepath="$PROJECT_DIR$/DynamicProxy/DynamicProxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileTest/FileTest.iml" filepath="$PROJECT_DIR$/FileTest/FileTest.iml" />
