@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T01:56:51.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="Q3si_hAZnO4usYSVpOwn" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T01:57:31.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="c_aIQFAZ0ssPSo69aXXl" version="17.4.6" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="2150" dy="1352" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
           <mxGeometry y="178" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="VJ0VMhZhghSGf0yXx016-114" value=" bond_statement_config" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="1665" width="140" height="104" as="geometry" />
+          <mxGeometry x="-120" y="1465" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="VJ0VMhZhghSGf0yXx016-115" value="client_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VJ0VMhZhghSGf0yXx016-114" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -152,7 +152,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VJ0VMhZhghSGf0yXx016-158" value="if （dalily_send_type = 1(变动发送）&lt;br&gt;&amp;amp;&amp;amp; (bond_holding_log changed || bond_order changed)）&lt;br&gt;||（daily_send_type = 0(固定发送)）statment_send = 1&lt;br&gt;else statement_send = 0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="140" y="1695" width="330" height="60" as="geometry" />
+          <mxGeometry x="60" y="1495" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VJ0VMhZhghSGf0yXx016-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VJ0VMhZhghSGf0yXx016-110" target="VJ0VMhZhghSGf0yXx016-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1124,7 +1124,7 @@
           <mxGeometry x="240" y="2185" width="320" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sHbQA2Ql_CEC5SkAnDxY-3" value=" basic_info" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1660" width="160" height="130" as="geometry" />
+          <mxGeometry x="450" y="1460" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sHbQA2Ql_CEC5SkAnDxY-4" value="statement_date" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sHbQA2Ql_CEC5SkAnDxY-3">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -1140,7 +1140,7 @@
         </mxCell>
         <mxCell id="sHbQA2Ql_CEC5SkAnDxY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ0VMhZhghSGf0yXx016-116">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="1730" as="targetPoint" />
+            <mxPoint x="70" y="1530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
